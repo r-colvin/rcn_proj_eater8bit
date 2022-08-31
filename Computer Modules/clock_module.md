@@ -1,6 +1,6 @@
 ---
 title: Clock Module
-sidebar_position: 15
+sidebar_position: 10
 ---
 
 ## Overview

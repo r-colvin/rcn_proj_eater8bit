@@ -1,4 +1,4 @@
 ---
 title: Power Supply
-sidebar_position: 14
+sidebar_position: 20
 ---
